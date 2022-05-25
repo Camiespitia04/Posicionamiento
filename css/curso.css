@@ -1,0 +1,137 @@
+
+.nav{
+    position: relative;
+    width: 100%;
+}
+.empresa{
+    display: inline-block;
+
+}
+.logo img{
+    width: 8em;
+    height: 8em;
+    display: inline-block;
+}
+.nav-icon{
+    position: absolute;
+    bottom: 33em;
+    left: 10em;
+}
+h2{
+    display: inline-block;
+}
+
+.search {
+    display: inline-block;
+    width: 40em;
+}
+
+input{
+    width:100%;   
+}
+.redes{
+    display: inline-block;
+    
+}
+.icon{
+    display: inline-block;
+}
+.icon img{
+    width: 3em;
+    height: 2em;
+    padding-left: 3em;
+}
+
+.descripcion{
+    position: relative;
+    bottom: 3em;
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+}
+.descripcion h1{
+    text-transform: uppercase;
+}
+.search-curso{
+    margin-bottom: 2em;
+}
+.search-curso input{
+    width: 50%;
+    height: 2em;
+}
+.search-curso button{
+    width: 16em;
+    height: 2em;
+    border: none;
+    margin: 1em;
+    background-color: antiquewhite;
+    font-weight: 700;
+}
+.img{
+    display: inline-block;
+
+}
+.img img{
+    width: 40em;
+    height: 20em;
+}
+
+.left{
+    display: inline-block;
+    width: 70%;
+}
+.curso{
+position: relative;
+}
+.curso .img{
+    display: inline-block;
+}
+.curso .img img{
+    width: 3em;
+    height: 3em;
+}
+.titulo{
+    display: inline-block;
+    position: absolute;
+    bottom: 0.5em;
+    left: 4em;
+}
+
+.titulo span{
+    display: block;
+}
+.precio{
+    display: inline-block;
+    position: absolute;
+    bottom: 0.5em;
+    left: 23em;
+}
+
+.rigth{
+    width: 30%;
+    display: inline-block;
+    position: relative;
+    bottom: 25em;
+    left: 45em;
+}
+.precio-r{
+    font-weight: 700;
+    font-size: 2em;
+    text-align: center;
+}
+.btn{
+    text-align: center;
+
+}
+.btn button{
+    width: 16em;
+    height: 3em;
+    border: none;
+    margin: 1em;
+    background-color: antiquewhite;
+    font-weight: 700;
+}
+
+.info h5{
+    font-size: 1em;
+}
